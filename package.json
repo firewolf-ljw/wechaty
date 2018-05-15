@@ -103,7 +103,7 @@
     "puppeteer": "^1.2.0",
     "raven": "^2.2.0",
     "read-pkg-up": "^3.0.0",
-    "request": "^2.83.0",
+    "request": "^2.86.0",
     "retry-promise": "^1.0.0",
     "rx-queue": "^0.4.7",
     "rxjs": "^6.1.0",
